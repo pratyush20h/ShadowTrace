@@ -1,0 +1,10 @@
+{
+  "name": "ShadowTrace",
+  "short_name": "ShadowTrace",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050816",
+  "theme_color": "#080808",
+  "description": "Discover, measure, and reclaim control over your digital footprint.",
+  "icons": []
+}
